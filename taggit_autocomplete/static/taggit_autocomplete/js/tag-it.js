@@ -387,6 +387,6 @@
 
     });
 
-})(jQuery);
+})(grp.jQuery);
 
 

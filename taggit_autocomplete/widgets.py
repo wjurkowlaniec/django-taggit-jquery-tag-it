@@ -33,7 +33,7 @@ class TagAutocomplete(forms.TextInput):
                             }
                         });
                     });
-                })(jQuery);
+                })(grp.jQuery);
             </script>
             """ % ({
                 'id': attrs['id'],
